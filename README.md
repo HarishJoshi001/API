@@ -8,7 +8,7 @@ Calculation that can be done here
 
 ***For addition***
 
-GET http://localhost:8080/api/add?num1=2&num2=3
+GET <pre> http://localhost:8080/api/add?num1=2&num2=3 </pre>
 
 ![image](https://github.com/user-attachments/assets/e8a65cb5-ea96-4771-8fc5-5f05992ed42f)
 
