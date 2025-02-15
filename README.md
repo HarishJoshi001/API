@@ -30,8 +30,8 @@ POST `http://localhost:8080/ws`
 
 ***For addition***
 
-<pre>
-  
+
+```  
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
                   xmlns:web="http://harish.com/calculator">
    <soapenv:Header/>
@@ -42,8 +42,7 @@ POST `http://localhost:8080/ws`
       </web:AddRequest>
    </soapenv:Body>
 </soapenv:Envelope>
-     
-</pre>
+```
 
 ![image](https://github.com/user-attachments/assets/2018fbdb-bcfc-4e66-ab9e-b082e0fb91ce)
 
