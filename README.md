@@ -26,10 +26,12 @@ GET `http://localhost:8080/api/subtract?num1=20&num2=3.3`
 
 For both addition and subtraction, use
 
-POST http://localhost:8080/ws
+POST `http://localhost:8080/ws`
 
 ***For addition***
 
+<pre>
+  
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
                   xmlns:web="http://harish.com/calculator">
    <soapenv:Header/>
@@ -40,7 +42,8 @@ POST http://localhost:8080/ws
       </web:AddRequest>
    </soapenv:Body>
 </soapenv:Envelope>
-
+     
+</pre>
 
 ![image](https://github.com/user-attachments/assets/2018fbdb-bcfc-4e66-ab9e-b082e0fb91ce)
 
