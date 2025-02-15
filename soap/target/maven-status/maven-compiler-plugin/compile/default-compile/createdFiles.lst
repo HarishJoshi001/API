@@ -1,0 +1,9 @@
+com\harish\calculator\config\WebServiceConfig.class
+com\harish\calculator\ws\SubtractRequest.class
+com\harish\calculator\endpoint\CalculatorEndpoint.class
+com\harish\calculator\ws\AddResponse.class
+com\harish\calculator\ws\ObjectFactory.class
+com\harish\calculator\ws\package-info.class
+com\harish\calculator\ws\SubtractResponse.class
+com\harish\calculator\ws\AddRequest.class
+com\harish\calculator\SoapApplication.class

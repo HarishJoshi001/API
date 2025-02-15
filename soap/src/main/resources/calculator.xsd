@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://harish.com/calculator"
+           xmlns:tns="http://harish.com/calculator"
+           elementFormDefault="qualified">
+
+    <!-- Addition Operation -->
+    <xs:element name="AddRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="number1" type="xs:double"/>
+                <xs:element name="number2" type="xs:double"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="AddResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="result" type="xs:double"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Subtraction Operation -->
+    <xs:element name="SubtractRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="number1" type="xs:double"/>
+                <xs:element name="number2" type="xs:double"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="SubtractResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="result" type="xs:double"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

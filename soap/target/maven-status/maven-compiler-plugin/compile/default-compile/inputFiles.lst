@@ -1,0 +1,9 @@
+E:\soap\src\main\java\com\harish\calculator\config\WebServiceConfig.java
+E:\soap\src\main\java\com\harish\calculator\endpoint\CalculatorEndpoint.java
+E:\soap\src\main\java\com\harish\calculator\SoapApplication.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\AddRequest.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\AddResponse.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\ObjectFactory.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\package-info.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\SubtractRequest.java
+E:\soap\target\generated-sources\jaxb\com\harish\calculator\ws\SubtractResponse.java
