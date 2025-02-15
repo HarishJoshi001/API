@@ -15,7 +15,7 @@ GET <pre> http://localhost:8080/api/add?num1=2&num2=3 </pre>
 
 ***For subtraction***
 
-GET http://localhost:8080/api/subtract?num1=20&num2=3.3
+GET `http://localhost:8080/api/subtract?num1=20&num2=3.3`
 
 ![image](https://github.com/user-attachments/assets/4046b7d9-142e-4778-88de-46f785ee71bf)
 
