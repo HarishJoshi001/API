@@ -4,7 +4,7 @@ Calculation that can be done here
 2. Subtraction
 
 
-**REST**
+**1. REST**
 
 ***For addition***
 
@@ -22,7 +22,7 @@ GET http://localhost:8080/api/subtract?num1=20&num2=3.3
 
 
 
-**SOAP**
+**2. SOAP**
 
 For both addition and subtraction, use
 
