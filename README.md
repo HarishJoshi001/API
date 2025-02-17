@@ -28,6 +28,8 @@ For both addition and subtraction, use
 
 POST ```http://localhost:8080/ws```
 
+Note: In Postman go to Headers then add Content-Type in Key and text/xml in Value
+
 ***For addition***
 
 
